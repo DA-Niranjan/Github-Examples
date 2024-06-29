@@ -1,5 +1,5 @@
 on:
-  pushh:
+  push:
     branches:
       - main
       - dev
